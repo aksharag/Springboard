@@ -1,2 +1,2 @@
 # Springboard
-My submissions for springboard course
+My submissions for springboard course on AI/ML
